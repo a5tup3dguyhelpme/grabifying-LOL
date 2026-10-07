@@ -1,3 +1,3 @@
 function noIdea(){
-document.getElementById()
+document.getElementById("credits").innerHTML = "hecho por Juan Pablo";
 }
