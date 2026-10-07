@@ -1,1 +1,3 @@
-let nothing = true;
+function noIdea(){
+document.getElementById()
+}
